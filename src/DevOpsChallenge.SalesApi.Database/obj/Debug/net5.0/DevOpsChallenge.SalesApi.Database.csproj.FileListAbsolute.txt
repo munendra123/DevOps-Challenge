@@ -1,0 +1,15 @@
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/bin/Debug/net5.0/DevOpsChallenge.SalesApi.Database.deps.json
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/bin/Debug/net5.0/DevOpsChallenge.SalesApi.Database.runtimeconfig.json
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/bin/Debug/net5.0/DevOpsChallenge.SalesApi.Database.runtimeconfig.dev.json
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/bin/Debug/net5.0/DevOpsChallenge.SalesApi.Database.dll
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/bin/Debug/net5.0/ref/DevOpsChallenge.SalesApi.Database.dll
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/bin/Debug/net5.0/DevOpsChallenge.SalesApi.Database.pdb
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/obj/Debug/net5.0/DevOpsChallenge.SalesApi.Database.csproj.AssemblyReference.cache
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/obj/Debug/net5.0/DevOpsChallenge.SalesApi.Database.GeneratedMSBuildEditorConfig.editorconfig
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/obj/Debug/net5.0/DevOpsChallenge.SalesApi.Database.AssemblyInfoInputs.cache
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/obj/Debug/net5.0/DevOpsChallenge.SalesApi.Database.AssemblyInfo.cs
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/obj/Debug/net5.0/DevOpsChallenge.SalesApi.Database.csproj.CoreCompileInputs.cache
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/obj/Debug/net5.0/DevOpsChallenge.SalesApi.Database.dll
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/obj/Debug/net5.0/ref/DevOpsChallenge.SalesApi.Database.dll
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/obj/Debug/net5.0/DevOpsChallenge.SalesApi.Database.pdb
+/Users/munendracherukur/Documents/GitHub/devops-challenge/src/DevOpsChallenge.SalesApi.Database/obj/Debug/net5.0/DevOpsChallenge.SalesApi.Database.genruntimeconfig.cache
