@@ -48,5 +48,12 @@ You'll need to select a CI/CD tool to complete the challenge. Feel free to use y
 
 5. Git Release Tags after Deployment
 
+## Capabilities
+
+1. Build, Scan and Publish Image
+2. Static Code Analysis
+3. Pull and Deploy Image
+4. Release Version Tag
+
 
 
